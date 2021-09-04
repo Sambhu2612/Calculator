@@ -25,6 +25,7 @@ div.display{
     border: 1px solid #aaa;
     padding: 0px 5px;
     font-size: 20px;
+    text-align: center;
 }
 
 div.feature_row{
